@@ -1,0 +1,20 @@
+body {
+	background-color: aqua;
+}
+
+p {
+	font-family: "century gothic";
+	text-align: justify;
+	text-indent: 50px;
+}
+
+h1 {
+	font-family: "comic sans ms";
+	font-size:60px;
+	color: darkblue;
+	text-align: center;
+}
+h4 { text-align: right;
+	font-style: italic;
+	
+}

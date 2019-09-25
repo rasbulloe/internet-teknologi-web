@@ -1,0 +1,30 @@
+body {
+	background-color: white;
+}
+
+.header {
+	background-color: #62a9ff;
+	width: auto;
+	margin: auto;
+	height: 300px;
+}
+
+.nama {
+	background-color: yellow;
+	margin: auto;
+	height: 30px;
+	text-align: center;
+}
+
+.sidebar {
+	background-color: orange;
+	float: left;
+	width: 15%;
+	height: 1000px;
+}
+
+.conten {
+	float: left;
+	height: 100%;
+	width: 75%;
+}
