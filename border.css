@@ -1,0 +1,15 @@
+div{
+	width: 195px;
+	height: 270px;
+	margin: 10px;
+	display: inline-block;
+}
+.dashed{
+	border: 3px dashed black;
+}
+.dotted{
+	border:3px dotted black;
+}
+.solid{
+	border: 3px solid black;
+}

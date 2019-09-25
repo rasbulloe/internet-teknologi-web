@@ -1,0 +1,12 @@
+#elemen1 {background-color: black;
+color: white; width: 100px;
+height: 80px; padding-top: 30px; padding-left: 40px;	}
+
+#elemen2 {
+	background-color: #88ef5b;
+	color: #333; width: 300px; height: 150px; padding:25px 200px 30px;
+}
+
+.paragraf1 {
+	background-color: #8f5bef; width: 500px; height: 50px; padding: 30px 0;
+}

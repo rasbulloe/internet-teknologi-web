@@ -1,0 +1,54 @@
+.container {
+	border: 1px solid black;
+	width: 800px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.header {
+	width: auto;
+	color: white;
+	text-align: center;
+	height: 40px;
+	margin-top: -23px;
+	background-color: black;
+}
+
+h3 {
+	padding-top: 10px;
+	padding-left: 8px;
+}
+
+p {
+	padding: 8px;
+	text-indent: 20px;
+	text-align: justify;
+}
+
+#p1 {
+	padding-top: 0px;
+}
+
+.image {
+	margin: auto;
+	width: 200px;
+	height: 150px;
+	padding-top: 20px;
+}
+
+img {
+	width: 200px;
+	height: 150px;
+	padding-top: 20px;
+}
+
+.footer {
+	height: 30px;
+	background-color: black;
+}
+
+#pfooter {
+	font-weight: bold;
+	color: white;
+	text-align: center;
+}
